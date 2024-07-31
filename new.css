@@ -1,0 +1,316 @@
+.container-fluid {
+    background-color: #34574F;
+    background-image: -webkit-linear-gradient(270deg,rgba(52,87,79,1.00) 0%,rgba(28,25,38,1.00) 50.78%);
+    background-image: -moz-linear-gradient(270deg,rgba(52,87,79,1.00) 0%,rgba(28,25,38,1.00) 50.78%);
+    background-image: -o-linear-gradient(270deg,rgba(52,87,79,1.00) 0%,rgba(28,25,38,1.00) 50.78%);
+    background-image: linear-gradient(180deg,rgba(52,87,79,1.00) 0%,rgba(28,25,38,1.00) 50.78%);
+}
+.container-fluid .container .text-center {
+    color: #FFFFFF;
+    font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+}
+footer .rowf .col-xl-6.copyright {
+    left: 821px;
+    top: -47px;
+}
+
+.container-fluid .container p {
+    color: #FFFFFF;
+}
+
+
+.container-fluid .container #carouselExampleIndicators1 {
+    margin-left: -214px;
+    margin-right: -214px;
+    width: 1550px;
+    height: 775px;
+    margin-bottom: 139px;
+}
+.container-fluid .container h1 {
+}
+.container-fluid .container .navbar.navbar-expand-lg.navbar-light.bg-light {
+    width: 1550px;
+    left: -214px;
+    height: 144px;
+    background-image: -webkit-linear-gradient(270deg,rgba(41,77,79,1.00) 0%,rgba(52,87,79,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(41,77,79,1.00) 0%,rgba(52,87,79,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(41,77,79,1.00) 0%,rgba(52,87,79,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(41,77,79,1.00) 0%,rgba(52,87,79,1.00) 100%);
+}
+.navbar.navbar-expand-lg.navbar-light.bg-light #navbarSupportedContent1 .navbar-nav.mr-auto {
+    margin-bottom: -84px;
+    margin-left: -697px;
+    color: #FFFFFF;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    font-size: large;
+    text-align: center;
+    text-decoration: none;
+}
+#navbarSupportedContent1 .navbar-nav.mr-auto .nav-item {
+    margin-left: 153px;
+    color: #FFFFFF;
+}
+
+.container .navbar.navbar-expand-lg.navbar-light.bg-light .navbar-brand {
+    left: 0px;
+    padding-left: 0px;
+    margin-right: 0px;
+    margin-left: 753px;
+    margin-bottom: 29px;
+}
+
+
+
+
+
+
+
+
+
+
+.container-fluid .container .text-center {
+    margin-top: 40px;
+    margin-bottom: 48px;
+}
+.row .col-xl-6 .card.col-md-4.col-xl-12 {
+    margin-top: -1px;
+    background-color: #343452;
+    color: #FFFFFF;
+    font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+    border-width: 0px;
+    border-top-left-radius: 35px;
+    border-top-right-radius: 35px;
+    border-bottom-left-radius: 35px;
+}
+.container-fluid .container #accordion1 {
+    margin-top: 62px;
+    background-color: #5285A6;
+    background-image: -webkit-linear-gradient(270deg,rgba(179,99,100,1.00) 0%,rgba(255,0,0,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(179,99,100,1.00) 0%,rgba(255,0,0,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(179,99,100,1.00) 0%,rgba(255,0,0,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(179,99,100,1.00) 0%,rgba(255,0,0,1.00) 100%);
+    -webkit-box-shadow: 0px 0px #B72326;
+    box-shadow: 0px 0px #B72326;
+}
+
+.container-fluid .container .row {
+    margin-top: 108px;
+    margin-bottom: 108px;
+}
+.container-fluid .container #carouselExampleIndicators2f {
+    margin-right: -20px;
+    width: 550px;
+    right: -281px;
+    border: 100;
+    border-radius: 50px;
+}
+
+.container-fluid .container hr {
+    background-color: #FFFFFF;
+    height: 1px;
+    padding-bottom: 1px;
+    margin-top: 114px;
+    margin-bottom: 132px;
+    width: 140px;
+}
+.col-xl-6 #carouselExampleIndicators2 .carousel-inner {
+    border: 100;
+    border-radius: 50px;
+}
+.container-fluid .container #carouselExampleIndicators2f {
+    padding-top: 0px;
+    top: -62px;
+}
+.container #carouselExampleIndicators2f .carousel-inner {
+    border: 100;
+    border-radius: 50px;
+}
+
+
+
+.row.cc .col-xl-6 #carouselExampleIndicators2 {
+    border: 100;
+    border-radius: 50px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.row .col-xl-6 .img-fluid.img-thumbnail {
+    right: 0px;
+    margin-left: 40px;
+}
+
+
+
+.container {
+  width:100%;
+  margin:0 auto;
+  position:relative;
+}
+
+#contact input[type="text"], #contact input[type="email"], #contact input[type="tel"], #contact input[type="url"], #contact textarea, #contact button[type="submit"] { font:400 12px/16px "Open Sans", Helvetica, Arial, sans-serif; }
+
+#contact {
+  background:#F9F9F9;
+  padding:25px;
+  margin:50px 0;
+}
+
+#contact h3 {
+  color: #F96;
+  display: block;
+  font-size: 30px;
+  font-weight: 400;
+}
+
+#contact h4 {
+  margin:5px 0 15px;
+  display:block;
+  font-size:13px;
+}
+
+fieldset {
+  border: medium none !important;
+  margin: 0 0 10px;
+  min-width: 100%;
+  padding: 0;
+  width: 100%;
+}
+
+#contact input[type="text"], #contact input[type="email"], #contact input[type="tel"], #contact input[type="url"], #contact textarea {
+  width:100%;
+  border:1px solid #CCC;
+  background:#FFF;
+  margin:0 0 5px;
+  padding:10px;
+}
+
+#contact input[type="text"]:hover, #contact input[type="email"]:hover, #contact input[type="tel"]:hover, #contact input[type="url"]:hover, #contact textarea:hover {
+  -webkit-transition:border-color 0.3s ease-in-out;
+  -moz-transition:border-color 0.3s ease-in-out;
+  transition:border-color 0.3s ease-in-out;
+  border:1px solid #AAA;
+}
+
+#contact textarea {
+  height:100px;
+  max-width:100%;
+  resize:none;
+}
+
+#contact button[type="submit"] {
+  cursor:pointer;
+  width:20%;
+  border:none;
+  background:#0CF;
+  color:#FFF;
+  margin:0 0 5px;
+  padding:10px;
+  font-size:15px;
+}
+
+#contact button[type="submit"]:hover {
+  background:#09C;
+  -webkit-transition:background 0.3s ease-in-out;
+  -moz-transition:background 0.3s ease-in-out;
+  transition:background-color 0.3s ease-in-out;
+}
+
+#contact button[type="submit"]:active { box-shadow:inset 0 1px 3px rgba(0, 0, 0, 0.5); }
+
+#contact input:focus, #contact textarea:focus {
+  outline:0;
+  border:1px solid #999;
+}
+
+::-webkit-input-placeholder {
+ color:#888;
+}
+:-moz-placeholder {
+ color:#888;
+}
+::-moz-placeholder {
+ color:#888;
+}
+:-ms-input-placeholder {
+ color:#888;
+}
+.container-fluid .container #contact {
+    border: 100;
+    background-color: #3A446E;
+    border-radius: 50px;
+}
+
+.container #contact fieldset {
+    background-color: #515E8B;
+}
+footer .rowf .col-xl-6.copyright {
+    width: 400px;
+}
+.row .col-xl-6 .prof {
+    margin-left: -136px;
+}
+.row .col-xl-6 .text-center.about {
+    font-size: large;
+    margin-top: 206px;
+}
+.container-fluid .container .row.artist {
+    margin-top: -1px;
+}
+.container-fluid .container .text-center.anje {
+    margin-top: 109px;
+}
+
+
+.col-xl-4{
+	transition: 0.5;
+	
+}
+
+.col-md-4:hover{
+    transform: scale(1.05);
+    z-index: 2;
+    background-color: #1A9281;
+}.col-xl-4 .card.col-md-4.col-xl-12 .card-body.n {
+    color: #12515B;
+    font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+    font-weight: bold;
+}
+.card.col-md-4.col-xl-12 .card-body.n .card-text {
+    color: #234D73;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-weight: normal;
+}
+.container-fluid .container h3 {
+    margin-top: 79px;
+    margin-bottom: -66px;
+    color: #FFFFFF;
+    font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+
+}
+.container-fluid .container .socials {
+    width: 1000px;
+    margin-left: 63px;
+    height: 100px;
+    margin-bottom: 139px;
+}
+.navbar-nav.mr-auto .nav-item.active .nav-link {
+    color: #FFFFFF;
+}
+.navbar-nav.mr-auto .nav-item .nav-link {
+    color: #FFFFFF;
+}
+.container-fluid .container .text-center.tag {
+    margin-top: -129px;
+    margin-bottom: 134px;
+}
+.container-fluid .container .text-center {
+    margin-bottom: 92px;
+}
+.container-fluid .container .text-center.anje {
+    text-shadow: -4px 8px 6px #12413D;
+    text-decoration: none;
+    margin-bottom: 6px;
+}
